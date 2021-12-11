@@ -29,3 +29,12 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+To Reference
+----
+- Retrofit (Network call)
+- Unit Test (JUnit Test, MockWebServer)
+
+Reference
+----
+- https://developer.android.com/codelabs/android-basics-kotlin-test-network-request?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-4-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fandroid-basics-kotlin-test-network-request#0
